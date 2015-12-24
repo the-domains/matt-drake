@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Matt Drake]]></title>
         <description><![CDATA[Matt Drake]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matt-drake/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 03:37:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Dec 2015 04:18:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matt-drake/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Waveborn Graphic Design]]></title>
-            <description><![CDATA[<article><h1>Waveborn Graphic Design</h1><p>Work completed for Waveborn Sunglasses while employed as Creative Director</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3e24ab8f4143f87f746d3e99dcad6327da11070.jpg"></article>]]></description>
-            <link>undefinedwaveborn-graphic-design/index.html</link>
+            <description><![CDATA[<article><h1>Waveborn Graphic Design</h1><p>Work completed for Waveborn Sunglasses while employed as Creative Director</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/602b96129c270bcc093db5ec55609324452ad074.jpg"></article>]]></description>
+            <link>https://thegrid.ai/matt-drake/waveborn-graphic-design/index.html</link>
             <guid isPermaLink="false">393494f1-1378-4f1f-9bbb-4a17c210937c</guid>
-            <pubDate>Thu, 24 Dec 2015 03:37:38 GMT</pubDate>
+            <pubDate>Thu, 24 Dec 2015 04:17:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
