@@ -1,0 +1,28 @@
+name: Matt Drake
+favicon: null
+layout_spectrum: 0.5072734353598207
+typography_spectrum: 0.26140619325451553
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6728634035680443
+  lightness: 0.08949028677307069
+  saturation: 0.21068719192408025
+  rhythmicContrast: 0.7458949098363519
+purpose: []
